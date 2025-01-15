@@ -11,7 +11,7 @@ namespace Pou_Game_Lib
         public MyPou(string name)  : base(name) { }
 
 
-        public override string GetAsciiArt()
+        public override string AsciiArtMegkapas()
         {
             switch (JelenlegiHangulat)
             {
@@ -24,11 +24,11 @@ namespace Pou_Game_Lib
                 case Hangulat.Unott:
                     return File.ReadAllText("PouBoredAscii.txt");
                 case Hangulat.Szomorú:
-                    return File.ReadAllText("PetSadAscii.txt");
+                    return File.ReadAllText("PouSadAscii.txt");
                 case Hangulat.Beteg:
-                    return File.ReadAllText("PetSickAscii.txt");
+                    return File.ReadAllText("PouSickAscii.txt");
                 default:
-                    return GetAsciiArtForAnimal("Pou"); // Restore the default appearance
+                    return File.ReadAllText("PouNeturalAscii.txt");
             }
         }
     }

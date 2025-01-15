@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Pou_Game_Lib/1.0.0": {
+        "runtime": {
+          "Pou_Game_Lib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pou_Game_Lib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

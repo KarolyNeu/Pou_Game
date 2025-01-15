@@ -31,18 +31,13 @@ namespace Pou_Game_Lib
 
         public void ValtozoStatok()
         {
-            Ehseg -= 1;
+            Ehseg -=1;
             Szomjusag -= 1;
             Boldogsag -= 1;
 
-            Ehseg = Math.Max(Ehseg, 0);
-            Szomjusag = Math.Max(Szomjusag, 0);
-            Boldogsag = Math.Max(Boldogsag, 0);
-
-
             if (Ehseg == 0 || Szomjusag == 0 || Boldogsag == 0 )
             {
-                Console.WriteLine($"{Nev} has passed away.");
+                Console.WriteLine($"{Nev} meghalt!");
             }
         }
 
@@ -75,6 +70,11 @@ namespace Pou_Game_Lib
         protected Pou (string name)
         {
             Nev = name;
+        }
+        public virtual void IdoValtozas()
+        {
+            ValtozoStatok();
+            HangulatValtozas();
         }
 
         public virtual void Eves()
@@ -179,6 +179,7 @@ namespace Pou_Game_Lib
           
             Boldogsag += 2;
         }
+        public abstract string AsciiArtMegkapas();
 
 
 
