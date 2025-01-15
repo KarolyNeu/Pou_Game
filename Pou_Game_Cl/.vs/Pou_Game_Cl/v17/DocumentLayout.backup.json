@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Karesz\\Desktop\\GITHUB-Projekt-12.c-TKA-MB\\Pou_Game\\Pou_Game_Cl\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5C5B5280-7474-4738-86DC-3B95D916FAD8}|Pou_Game_Lib\\Pou_Game_Lib.csproj|c:\\users\\karesz\\desktop\\github-projekt-12.c-tka-mb\\pou_game\\pou_game_cl\\pou_game_lib\\pou.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C5B5280-7474-4738-86DC-3B95D916FAD8}|Pou_Game_Lib\\Pou_Game_Lib.csproj|solutionrelative:pou_game_lib\\pou.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5C5B5280-7474-4738-86DC-3B95D916FAD8}|Pou_Game_Lib\\Pou_Game_Lib.csproj|c:\\users\\karesz\\desktop\\github-projekt-12.c-tka-mb\\pou_game\\pou_game_cl\\pou_game_lib\\mypou.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C5B5280-7474-4738-86DC-3B95D916FAD8}|Pou_Game_Lib\\Pou_Game_Lib.csproj|solutionrelative:pou_game_lib\\mypou.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F33873A-AF00-4D35-98E7-D5EB1B12154D}|Pou_Game_Cl\\Pou_Game_Cl.csproj|c:\\users\\karesz\\desktop\\github-projekt-12.c-tka-mb\\pou_game\\pou_game_cl\\pou_game_cl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F33873A-AF00-4D35-98E7-D5EB1B12154D}|Pou_Game_Cl\\Pou_Game_Cl.csproj|solutionrelative:pou_game_cl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5C5B5280-7474-4738-86DC-3B95D916FAD8}|Pou_Game_Lib\\Pou_Game_Lib.csproj|c:\\users\\karesz\\desktop\\github-projekt-12.c-tka-mb\\pou_game\\pou_game_cl\\pou_game_lib\\pou.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C5B5280-7474-4738-86DC-3B95D916FAD8}|Pou_Game_Lib\\Pou_Game_Lib.csproj|solutionrelative:pou_game_lib\\pou.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5C5B5280-7474-4738-86DC-3B95D916FAD8}|Pou_Game_Lib\\Pou_Game_Lib.csproj|c:\\users\\karesz\\desktop\\github-projekt-12.c-tka-mb\\pou_game\\pou_game_cl\\pou_game_lib\\pouneturalascii.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{5C5B5280-7474-4738-86DC-3B95D916FAD8}|Pou_Game_Lib\\Pou_Game_Lib.csproj|solutionrelative:pou_game_lib\\pouneturalascii.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{5C5B5280-7474-4738-86DC-3B95D916FAD8}|Pou_Game_Lib\\Pou_Game_Lib.csproj|c:\\users\\karesz\\desktop\\github-projekt-12.c-tka-mb\\pou_game\\pou_game_cl\\pou_game_lib\\pouboredascii.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5C5B5280-7474-4738-86DC-3B95D916FAD8}|Pou_Game_Lib\\Pou_Game_Lib.csproj|solutionrelative:pou_game_lib\\pouboredascii.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F33873A-AF00-4D35-98E7-D5EB1B12154D}|Pou_Game_Cl\\Pou_Game_Cl.csproj|c:\\users\\karesz\\desktop\\github-projekt-12.c-tka-mb\\pou_game\\pou_game_cl\\pou_game_cl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F33873A-AF00-4D35-98E7-D5EB1B12154D}|Pou_Game_Cl\\Pou_Game_Cl.csproj|solutionrelative:pou_game_cl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C5B5280-7474-4738-86DC-3B95D916FAD8}|Pou_Game_Lib\\Pou_Game_Lib.csproj|c:\\users\\karesz\\desktop\\github-projekt-12.c-tka-mb\\pou_game\\pou_game_cl\\pou_game_lib\\pou_game_lib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5C5B5280-7474-4738-86DC-3B95D916FAD8}|Pou_Game_Lib\\Pou_Game_Lib.csproj|solutionrelative:pou_game_lib\\pou_game_lib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5C5B5280-7474-4738-86DC-3B95D916FAD8}|Pou_Game_Lib\\Pou_Game_Lib.csproj|c:\\users\\karesz\\desktop\\github-projekt-12.c-tka-mb\\pou_game\\pou_game_cl\\pou_game_lib\\pousickascii.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{5C5B5280-7474-4738-86DC-3B95D916FAD8}|Pou_Game_Lib\\Pou_Game_Lib.csproj|solutionrelative:pou_game_lib\\pousickascii.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C5B5280-7474-4738-86DC-3B95D916FAD8}|Pou_Game_Lib\\Pou_Game_Lib.csproj|c:\\users\\karesz\\desktop\\github-projekt-12.c-tka-mb\\pou_game\\pou_game_cl\\pou_game_lib\\pouveryhappyascii.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{5C5B5280-7474-4738-86DC-3B95D916FAD8}|Pou_Game_Lib\\Pou_Game_Lib.csproj|solutionrelative:pou_game_lib\\pouveryhappyascii.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F3D006D3-5E12-4E8A-833F-02B608E787EA}|Pou_Game_Tests\\Pou_Game_Tests.csproj|c:\\users\\karesz\\desktop\\github-projekt-12.c-tka-mb\\pou_game\\pou_game_cl\\pou_game_tests\\pou_game_tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{F3D006D3-5E12-4E8A-833F-02B608E787EA}|Pou_Game_Tests\\Pou_Game_Tests.csproj|solutionrelative:pou_game_tests\\pou_game_tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5C5B5280-7474-4738-86DC-3B95D916FAD8}|Pou_Game_Lib\\Pou_Game_Lib.csproj|c:\\users\\karesz\\desktop\\github-projekt-12.c-tka-mb\\pou_game\\pou_game_cl\\pou_game_lib\\pousadascii.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -39,8 +39,8 @@
       "RelativeMoniker": "D:0:0:{5C5B5280-7474-4738-86DC-3B95D916FAD8}|Pou_Game_Lib\\Pou_Game_Lib.csproj|solutionrelative:pou_game_lib\\pouhappyascii.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C5B5280-7474-4738-86DC-3B95D916FAD8}|Pou_Game_Lib\\Pou_Game_Lib.csproj|c:\\users\\karesz\\desktop\\github-projekt-12.c-tka-mb\\pou_game\\pou_game_cl\\pou_game_lib\\pouboredascii.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{5C5B5280-7474-4738-86DC-3B95D916FAD8}|Pou_Game_Lib\\Pou_Game_Lib.csproj|solutionrelative:pou_game_lib\\pouboredascii.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{5C5B5280-7474-4738-86DC-3B95D916FAD8}|Pou_Game_Lib\\Pou_Game_Lib.csproj|c:\\users\\karesz\\desktop\\github-projekt-12.c-tka-mb\\pou_game\\pou_game_cl\\pou_game_lib\\pouveryhappyascii.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5C5B5280-7474-4738-86DC-3B95D916FAD8}|Pou_Game_Lib\\Pou_Game_Lib.csproj|solutionrelative:pou_game_lib\\pouveryhappyascii.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5C5B5280-7474-4738-86DC-3B95D916FAD8}|Pou_Game_Lib\\Pou_Game_Lib.csproj|c:\\users\\karesz\\desktop\\github-projekt-12.c-tka-mb\\pou_game\\pou_game_cl\\pou_game_lib\\pouszolgalat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -51,8 +51,8 @@
       "RelativeMoniker": "D:0:0:{F3D006D3-5E12-4E8A-833F-02B608E787EA}|Pou_Game_Tests\\Pou_Game_Tests.csproj|solutionrelative:pou_game_tests\\poutests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C5B5280-7474-4738-86DC-3B95D916FAD8}|Pou_Game_Lib\\Pou_Game_Lib.csproj|c:\\users\\karesz\\desktop\\github-projekt-12.c-tka-mb\\pou_game\\pou_game_cl\\pou_game_lib\\pou_game_lib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{5C5B5280-7474-4738-86DC-3B95D916FAD8}|Pou_Game_Lib\\Pou_Game_Lib.csproj|solutionrelative:pou_game_lib\\pou_game_lib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{F3D006D3-5E12-4E8A-833F-02B608E787EA}|Pou_Game_Tests\\Pou_Game_Tests.csproj|c:\\users\\karesz\\desktop\\github-projekt-12.c-tka-mb\\pou_game\\pou_game_cl\\pou_game_tests\\pou_game_tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F3D006D3-5E12-4E8A-833F-02B608E787EA}|Pou_Game_Tests\\Pou_Game_Tests.csproj|solutionrelative:pou_game_tests\\pou_game_tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,11 +62,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "PouSickAscii.txt",
               "DocumentMoniker": "C:\\Users\\Karesz\\Desktop\\GITHUB-Projekt-12.c-TKA-MB\\Pou_Game\\Pou_Game_Cl\\Pou_Game_Lib\\PouSickAscii.txt",
               "RelativeDocumentMoniker": "Pou_Game_Lib\\PouSickAscii.txt",
@@ -92,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 3,
               "Title": "PouBoredAscii.txt",
               "DocumentMoniker": "C:\\Users\\Karesz\\Desktop\\GITHUB-Projekt-12.c-TKA-MB\\Pou_Game\\Pou_Game_Cl\\Pou_Game_Lib\\PouBoredAscii.txt",
               "RelativeDocumentMoniker": "Pou_Game_Lib\\PouBoredAscii.txt",
@@ -105,8 +105,8 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Pou_Game_Lib",
+              "DocumentIndex": 5,
+              "Title": "Pou_Game_Lib.csproj",
               "DocumentMoniker": "C:\\Users\\Karesz\\Desktop\\GITHUB-Projekt-12.c-TKA-MB\\Pou_Game\\Pou_Game_Cl\\Pou_Game_Lib\\Pou_Game_Lib.csproj",
               "RelativeDocumentMoniker": "Pou_Game_Lib\\Pou_Game_Lib.csproj",
               "ToolTip": "C:\\Users\\Karesz\\Desktop\\GITHUB-Projekt-12.c-TKA-MB\\Pou_Game\\Pou_Game_Cl\\Pou_Game_Lib\\Pou_Game_Lib.csproj",
@@ -118,13 +118,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "PouNeturalAscii.txt",
               "DocumentMoniker": "C:\\Users\\Karesz\\Desktop\\GITHUB-Projekt-12.c-TKA-MB\\Pou_Game\\Pou_Game_Cl\\Pou_Game_Lib\\PouNeturalAscii.txt",
               "RelativeDocumentMoniker": "Pou_Game_Lib\\PouNeturalAscii.txt",
               "ToolTip": "C:\\Users\\Karesz\\Desktop\\GITHUB-Projekt-12.c-TKA-MB\\Pou_Game\\Pou_Game_Cl\\Pou_Game_Lib\\PouNeturalAscii.txt",
               "RelativeToolTip": "Pou_Game_Lib\\PouNeturalAscii.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2025-01-15T20:45:58.922Z",
               "EditorCaption": ""
@@ -144,13 +144,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "PouVeryHappyAscii.txt",
               "DocumentMoniker": "C:\\Users\\Karesz\\Desktop\\GITHUB-Projekt-12.c-TKA-MB\\Pou_Game\\Pou_Game_Cl\\Pou_Game_Lib\\PouVeryHappyAscii.txt",
               "RelativeDocumentMoniker": "Pou_Game_Lib\\PouVeryHappyAscii.txt",
               "ToolTip": "C:\\Users\\Karesz\\Desktop\\GITHUB-Projekt-12.c-TKA-MB\\Pou_Game\\Pou_Game_Cl\\Pou_Game_Lib\\PouVeryHappyAscii.txt",
               "RelativeToolTip": "Pou_Game_Lib\\PouVeryHappyAscii.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2025-01-15T20:44:26.346Z",
               "EditorCaption": ""
@@ -170,26 +170,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MyPou.cs",
               "DocumentMoniker": "C:\\Users\\Karesz\\Desktop\\GITHUB-Projekt-12.c-TKA-MB\\Pou_Game\\Pou_Game_Cl\\Pou_Game_Lib\\MyPou.cs",
               "RelativeDocumentMoniker": "Pou_Game_Lib\\MyPou.cs",
               "ToolTip": "C:\\Users\\Karesz\\Desktop\\GITHUB-Projekt-12.c-TKA-MB\\Pou_Game\\Pou_Game_Cl\\Pou_Game_Lib\\MyPou.cs",
               "RelativeToolTip": "Pou_Game_Lib\\MyPou.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-15T19:58:06.999Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Pou.cs",
               "DocumentMoniker": "C:\\Users\\Karesz\\Desktop\\GITHUB-Projekt-12.c-TKA-MB\\Pou_Game\\Pou_Game_Cl\\Pou_Game_Lib\\Pou.cs",
               "RelativeDocumentMoniker": "Pou_Game_Lib\\Pou.cs",
               "ToolTip": "C:\\Users\\Karesz\\Desktop\\GITHUB-Projekt-12.c-TKA-MB\\Pou_Game\\Pou_Game_Cl\\Pou_Game_Lib\\Pou.cs",
               "RelativeToolTip": "Pou_Game_Lib\\Pou.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAA9wCMAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACUAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-15T18:33:53.483Z",
               "EditorCaption": ""
@@ -204,34 +204,32 @@
               "RelativeToolTip": "Pou_Game_Tests\\PouTests.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T17:45:53.595Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T17:45:53.595Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Karesz\\Desktop\\GITHUB-Projekt-12.c-TKA-MB\\Pou_Game\\Pou_Game_Cl\\Pou_Game_Cl\\Program.cs",
               "RelativeDocumentMoniker": "Pou_Game_Cl\\Program.cs",
               "ToolTip": "C:\\Users\\Karesz\\Desktop\\GITHUB-Projekt-12.c-TKA-MB\\Pou_Game\\Pou_Game_Cl\\Pou_Game_Cl\\Program.cs",
               "RelativeToolTip": "Pou_Game_Cl\\Program.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAgwEIAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwFAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-15T17:44:40.141Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Pou_Game_Tests",
+              "DocumentIndex": 12,
+              "Title": "Pou_Game_Tests.csproj",
               "DocumentMoniker": "C:\\Users\\Karesz\\Desktop\\GITHUB-Projekt-12.c-TKA-MB\\Pou_Game\\Pou_Game_Cl\\Pou_Game_Tests\\Pou_Game_Tests.csproj",
               "RelativeDocumentMoniker": "Pou_Game_Tests\\Pou_Game_Tests.csproj",
               "ToolTip": "C:\\Users\\Karesz\\Desktop\\GITHUB-Projekt-12.c-TKA-MB\\Pou_Game\\Pou_Game_Cl\\Pou_Game_Tests\\Pou_Game_Tests.csproj",
               "RelativeToolTip": "Pou_Game_Tests\\Pou_Game_Tests.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-15T20:57:13.015Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-15T20:57:13.015Z"
             }
           ]
         }

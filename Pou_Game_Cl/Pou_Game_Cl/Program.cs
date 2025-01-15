@@ -24,7 +24,7 @@ class Program
             while (!exit)
             {
                 enPoum.HangulatValtozas();
-                if (enPoum.Ehseg == 0 || enPoum.Szomjusag == 0 || enPoum.Boldogsag == 0)
+                if (enPoum.Ehseg == 0 && enPoum.Szomjusag == 0 && enPoum.Boldogsag == 0)
                 {
                     Console.WriteLine("Sajnos elhunyt a Pou-d");
                     break;
@@ -32,8 +32,8 @@ class Program
 
                 PouSzolgalat.AsciiMegjelenites(enPoum);
                 Console.WriteLine($"\nA jelenlegi hangulata a Pounak: {enPoum.JelenlegiHangulat}");
-                Console.WriteLine($"\nA jelenlegi éhinség állapota: {enPoum.Ehseg}");
-                Console.WriteLine($"\nA jelenlegi szomjúság állapota: {enPoum.Szomjusag}");
+                Console.WriteLine($"A jelenlegi éhinség állapota: {enPoum.Ehseg}");
+                Console.WriteLine($"A jelenlegi szomjúság állapota: {enPoum.Szomjusag}\n");
                 Console.WriteLine("Mit szeretnél csinálni a Pouddal?");
                 Console.WriteLine("[1] Megetetés");
                 Console.WriteLine("[2] Itatni");
@@ -70,9 +70,10 @@ class Program
                         break;
                 }
 
+                enPoum.IdoValtozas();
+
                 Console.Clear();
-                IdoValtozas();
-                if (enPoum.Ehseg == 0 || enPoum.Szomjusag == 0 || enPoum.Boldogsag == 0)
+                if (enPoum.Ehseg == 0 && enPoum.Szomjusag == 0 && enPoum.Boldogsag == 0)
                 {
                     Console.WriteLine("Sajnos elhunyt a Pou-d");
                     exit = true;

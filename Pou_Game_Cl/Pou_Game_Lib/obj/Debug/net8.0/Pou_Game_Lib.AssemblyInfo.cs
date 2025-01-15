@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pou_Game_Lib")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+398916139f26961bc679dca6e9f86eb8b21ef19e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b1c0399fee3976380b31d67ae8f9dda2af8aa43")]
 [assembly: System.Reflection.AssemblyProductAttribute("Pou_Game_Lib")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Pou_Game_Lib")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -35,23 +35,22 @@ namespace Pou_Game_Lib
             Szomjusag -= 1;
             Boldogsag -= 1;
 
-            if (Ehseg == 0 || Szomjusag == 0 || Boldogsag == 0 )
+            if (Ehseg == 0 && Szomjusag == 0 && Boldogsag == 0 )
             {
                 Console.WriteLine($"{Nev} meghalt!");
             }
         }
-
         public void HangulatValtozas()
         {
-            if (Boldogsag > 14)
+            if (Boldogsag > 13)
             {
                 JelenlegiHangulat = Hangulat.Vidám;
             }
-            else if (Boldogsag > 12)
+            else if (Boldogsag > 11)
             {
                 JelenlegiHangulat = Hangulat.Boldog;
             }
-            else if ( Boldogsag >= 10)
+            else if ( Boldogsag >= 7)
             {
                 JelenlegiHangulat = Hangulat.Semleges;
             }
@@ -61,7 +60,7 @@ namespace Pou_Game_Lib
                 JelenlegiHangulat = Hangulat.Unott;
             }
 
-            if (Boldogsag < 3 && Ehseg < 3)
+            if (Boldogsag < 2 && Ehseg < 2)
             {
                 JelenlegiHangulat = Hangulat.Beteg;
             }
@@ -84,6 +83,8 @@ namespace Pou_Game_Lib
             Console.WriteLine($"Válassz egy ételt mit egyen a Pou-d!");
             Console.WriteLine($"[1] KFC");
             Console.WriteLine($"[2] Tészta");
+            Console.WriteLine($"[3] Öcsi szendó");
+            Console.WriteLine($"[4] Meleg szendvics");
 
             string foodChoice = Console.ReadLine();
 
@@ -101,7 +102,7 @@ namespace Pou_Game_Lib
                     break;
             }
 
-            Ehseg += 2;
+            Ehseg += 4;
         }
         public virtual void Ivas()
         {
@@ -135,7 +136,7 @@ namespace Pou_Game_Lib
                     break;
             }
 
-            Szomjusag += 2;
+            Szomjusag += 4;
         }
 
         public virtual void Jatek()
@@ -177,7 +178,7 @@ namespace Pou_Game_Lib
             }
 
           
-            Boldogsag += 2;
+            Boldogsag += 4;
         }
         public abstract string AsciiArtMegkapas();
 
