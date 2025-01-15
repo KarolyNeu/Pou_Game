@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Karesz\\Desktop\\Pou_TKA_MB\\Pou_Game_Cl\\Pou_Game_Tests\\Pou_Game_Tests.csproj": {}
+    "C:\\Users\\Karesz\\Desktop\\GITHUB-Projekt-12.c-TKA-MB\\Pou_Game\\Pou_Game_Cl\\Pou_Game_Tests\\Pou_Game_Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Karesz\\Desktop\\Pou_TKA_MB\\Pou_Game_Cl\\Pou_Game_Tests\\Pou_Game_Tests.csproj": {
+    "C:\\Users\\Karesz\\Desktop\\GITHUB-Projekt-12.c-TKA-MB\\Pou_Game\\Pou_Game_Cl\\Pou_Game_Tests\\Pou_Game_Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Karesz\\Desktop\\Pou_TKA_MB\\Pou_Game_Cl\\Pou_Game_Tests\\Pou_Game_Tests.csproj",
+        "projectUniqueName": "C:\\Users\\Karesz\\Desktop\\GITHUB-Projekt-12.c-TKA-MB\\Pou_Game\\Pou_Game_Cl\\Pou_Game_Tests\\Pou_Game_Tests.csproj",
         "projectName": "Pou_Game_Tests",
-        "projectPath": "C:\\Users\\Karesz\\Desktop\\Pou_TKA_MB\\Pou_Game_Cl\\Pou_Game_Tests\\Pou_Game_Tests.csproj",
+        "projectPath": "C:\\Users\\Karesz\\Desktop\\GITHUB-Projekt-12.c-TKA-MB\\Pou_Game\\Pou_Game_Cl\\Pou_Game_Tests\\Pou_Game_Tests.csproj",
         "packagesPath": "C:\\Users\\Karesz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Karesz\\Desktop\\Pou_TKA_MB\\Pou_Game_Cl\\Pou_Game_Tests\\obj\\",
+        "outputPath": "C:\\Users\\Karesz\\Desktop\\GITHUB-Projekt-12.c-TKA-MB\\Pou_Game\\Pou_Game_Cl\\Pou_Game_Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Karesz\\AppData\\Roaming\\NuGet\\NuGet.Config",

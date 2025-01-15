@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JMo/e4inRs4=",
+  "dgSpecHash": "uxWomMFKDl0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Karesz\\Desktop\\Pou_TKA_MB\\Pou_Game_Cl\\Pou_Game_Tests\\Pou_Game_Tests.csproj",
+  "projectFilePath": "C:\\Users\\Karesz\\Desktop\\GITHUB-Projekt-12.c-TKA-MB\\Pou_Game\\Pou_Game_Cl\\Pou_Game_Tests\\Pou_Game_Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Karesz\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\Karesz\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",
